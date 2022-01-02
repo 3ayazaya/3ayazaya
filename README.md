@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Zaytsev Daniil: [5HM3L][website] 🐝 ![visitors](https://visitor-badge.glitch.me/badge?page_id=3ayazaya&left_color=green&right_color=blue)
 
-[![Website](https://img.shields.io/website?label=shmel.site&style=for-the-badge&up_message=up&url=https%3A%2F%2Fshmel.site)](https://shmel.site)
+[![Website](https://img.shields.io/website?label=shmel.xyz&style=for-the-badge&up_message=up&url=https%3A%2F%2Fshmel.xyz)](https://shmel.xyz)
 [![Website](https://camo.githubusercontent.com/5ebea79a1eca18371b2c45e74cdda32b3f7c99b09e31f9fca77bc4031dc0bcf6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4861627226636f6c6f723d363541334245266c6f676f3d48616272266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://habr.com/ru/users/toxella/)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/z0yac?color=orange&logo=reddit&style=for-the-badge)](https://www.reddit.com/user/z0yac)
 
