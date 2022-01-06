@@ -67,7 +67,12 @@
     <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/7cf/8a7/2f0/7cf8a72f0b2a6b36bd7e1956781aea38.jpeg" alt="Разбор одного таска или как найти сайт по favicon.ico?" height="225px">
     <p>Разбор одного таска или как найти сайт по favicon.ico?</p>
   </a>
+   <a href="https://habr.com/ru/post/599191/">
+    <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/7bf/423/f1d/7bf423f1de59099becabb7aecf12d075.jpeg" alt="Как перенести сохранения «Witcher 3 Wild Hunt» с ПК на Nintendo Switch" height="225px">
+    <p>Как перенести сохранения «Witcher 3 Wild Hunt» с ПК на Nintendo Switch</p>
+  </a>
 </span>
+
 
 [website]: https://shmel.site
 [telegram]: https://t.me/z0yac
