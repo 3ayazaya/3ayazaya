@@ -71,9 +71,14 @@
     <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/7bf/423/f1d/7bf423f1de59099becabb7aecf12d075.jpeg" alt="Как перенести сохранения «Witcher 3 Wild Hunt» с ПК на Nintendo Switch" height="225px">
     <p>Как перенести сохранения «Witcher 3 Wild Hunt» с ПК на Nintendo Switch</p>
   </a>
+  </a>
+   <a href="https://habr.com/ru/post/662670/">
+    <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/70d/bfa/498/70dbfa498535344726782ef7572d52a0.png" alt="ЧудESA защиты корпоративной почты или внедрение свободных почтовых шлюзов на базе Proxmox Mail Gateway" height="225px">
+    <p>ЧудESA защиты корпоративной почты или внедрение свободных почтовых шлюзов на базе Proxmox Mail Gateway</p>
+  </a>
 </span>
 
 
-[website]: https://shmel.site
+[website]: https://shmel.xyz
 [telegram]: https://t.me/z0yac
 [ctftime]: https://ctftime.org/team/151934
