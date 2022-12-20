@@ -81,6 +81,10 @@
     <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/eef/2b5/855/eef2b585560dc8fa4252deef7e4f5bce.png" alt="Разбор таска Dirty logs с M*CTF 2022 или как желание пихнуть кавычку помогает решать CTF" height="225px">
     <p>Разбор таска Dirty logs с M*CTF 2022 или как желание пихнуть кавычку помогает решать CTF</p>
   </a>
+  <a href="https://habr.com/ru/post/706434/">
+    <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/e0c/59a/7f2/e0c59a7f28ddfdce1c9397958e7339b7.jpg" alt="Как создать cloud-init шаблон ОС Astra Linux в Proxmox" height="225px">
+    <p>Как создать cloud-init шаблон ОС Astra Linux в Proxmox</p>
+  </a>
 </span>
 
 
