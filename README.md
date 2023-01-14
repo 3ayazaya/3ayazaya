@@ -56,9 +56,9 @@
 
 ### View my stats on Github 
    
-![3ayazaya GitHub Stats](https://github-readme-stats.vercel.app/api?username=3ayazaya&show_icons=true&theme=merko)
+![3ayazaya GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=3ayazaya&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3ayazaya&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=3ayazaya&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
