@@ -1,4 +1,4 @@
-### Hi everyone, I'm Zaytsev Daniil: 🐝 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F3ayazaya%2F3ayazaya&labelColor=%23f47373&countColor=%232ccce4&style=flat)
+### Hi everyone: 🐝 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F3ayazaya%2F3ayazaya&labelColor=%23f47373&countColor=%232ccce4&style=flat)
 
 ## I'm a Developer, Researcher, DevOps and CTF player! 
 
